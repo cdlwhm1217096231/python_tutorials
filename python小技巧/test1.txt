@@ -1,0 +1,5 @@
+['haha', 1, 2, 4, 3.29]python is a cat 
+python is a cat 
+python is a cat
+库里是个小学生
+傻吊
